@@ -12,14 +12,14 @@
 
 
 
-<h1 align="center">Analysis of Beer Hops</h1>
+<h1 align="center">BrewModel: Hops Flavor & Aroma Profiler</h1>
   <p align="center">
     Tomer D. & Romith C.
     <br />
     <br />
-    <a href="https://github.com/rc-9/tools1_project/issues">Report Bug</a>
+    <a href="https://github.com/rc-9/Beer_Hops_Analysis/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rc-9/tools1_project/issues">Request Feature</a>
+    <a href="https://github.com/rc-9/Beer_Hops_Analysis/issues">Request Feature</a>
   </p>
 </div>
 
@@ -47,7 +47,6 @@
         <li><a>Classifier</a></li>
         <li><a>Analyzer</a></li>
       </ul>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -177,20 +176,9 @@ Additionally, a tool was also built to take in input data of various hop charact
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-* Tomer Danon - [tomer.danon@du.edu](tomer.danon@du.edu)
-* Romith Challa - [romith.challa@du.edu](romith.challa@du.edu)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 ## Acknowledgments
 
 * Data source: [https://beermaverick.com/hops/](https://beermaverick.com/hops/)
-* Ritchie School of Engineering & Computer Science, University of Denver
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -199,8 +187,9 @@ Additionally, a tool was also built to take in input data of various hop charact
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-shield]: https://img.shields.io/github/issues/rc-9/tools1_project.svg?style=for-the-badge
-[issues-url]: https://github.com/rc-9/tools1_project/issues
+[issues-shield]: https://img.shields.io/github/issues/rc-9/Beer_Hops_Analysis.svg?style=for-the-badge
+[issues-url]: https://github.com/rc-9/Beer_Hops_Analysis/issues
+
 
 
 
