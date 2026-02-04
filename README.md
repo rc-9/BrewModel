@@ -14,13 +14,9 @@
 
 <h1 align="center">Analysis of Beer Hops</h1>
   <p align="center">
-    4447 - Tools 1 - Fall 2021 - Final Project
-    <br />
-    Tomer Danon & Romith Challa
+    Tomer D. & Romith C.
     <br />
     <br />
-    <a href="https://github.com/rc-9/tools1_project">View Repo</a>
-    ·
     <a href="https://github.com/rc-9/tools1_project/issues">Report Bug</a>
     ·
     <a href="https://github.com/rc-9/tools1_project/issues">Request Feature</a>
@@ -205,6 +201,7 @@ Additionally, a tool was also built to take in input data of various hop charact
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/rc-9/tools1_project.svg?style=for-the-badge
 [issues-url]: https://github.com/rc-9/tools1_project/issues
+
 
 
 
