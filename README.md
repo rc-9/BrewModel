@@ -161,7 +161,7 @@ The ```images``` directory generated from execution will consist of all the ```p
 In this script, we attempt to classify geographical regions based on various hop characteristics.
 The processed data from ```clean_data``` undergoes further feature-engineering to prepare to be fed into a model that can carry out this task. This script is self-contained and will consist of the resulting confusion matrix from the model predictions.
 <br/><br/>
-Additionally, a tool was also built to take in input data of various hop characteristics from the user, and execute the classifier model to predict the correct region to which the hop belongs.
+Additionally, a tool was also built to take in input data of various hop characteristics from the user, and execute the classifier model to predict the correct region to which the hop belongs to.
 <br/> <br/> <br/>
 
 5. Execute ```purpose_classifier.ipynb``` to construct two tree-based ensemble models using XG-Boost & Random Forest classification algorithms to classify hop purpose.
@@ -171,7 +171,6 @@ The processed data from ```clean_data``` undergoes further feature-engineering t
 <br/><br/>
 Additionally, a tool was also built to take in input data of various hop characteristics from the user, and execute the classifier model to predict the correct purpose of the hop.
 <br/> <br/> <br/>
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -189,6 +188,7 @@ Additionally, a tool was also built to take in input data of various hop charact
 <!-- MARKDOWN LINKS & IMAGES -->
 [issues-shield]: https://img.shields.io/github/issues/rc-9/Beer_Hops_Analysis.svg?style=for-the-badge
 [issues-url]: https://github.com/rc-9/Beer_Hops_Analysis/issues
+
 
 
 
